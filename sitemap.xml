@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://boostyouraccount.com/</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/index.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/product.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/about-us.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/contact-us.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/cart.php</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=instagram</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=tiktok</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=facebook</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=youtube</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=telegram</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=linkedin</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=app-store</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://boostyouraccount.com/shop.php?socMedia=google-play</loc>
+  <lastmod>2023-02-12T11:22:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
