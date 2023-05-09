@@ -4,41 +4,30 @@ session_start();
 <!doctype html>
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DZZG6870T"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-4DZZG6870T');
-    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <title>BoostYourAccount | Политика конфиденциальности</title>
-    <meta name="description" content="Пользуясь сервисом BoostYourAccount Вы автоматически соглашаетесь с политикой конфиденциальности!" />
+    <title>BoostYourAccount | Договор публичной оферты</title>
+    <meta name="description" content="Договор на предоставление услуг сервисом 'BoostYourAccount'. Используя сервис BoostYourAccount, Вы автоматически соглашаетесь с условиями договора оферты!" />
     <meta name="keywords" content="BoostYourAccount Договор на предоставление услуг" />
     <meta name="author" content="Sahib Zulfigar" />
 
 
     <!-- Facebook and Twitter integration -->
-    <meta property="og:title" content="BoostYourAccount | Политика конфиденциальности" />
+    <meta property="og:title" content="BoostYourAccount | Договор публичной оферты" />
     <meta property="og:image" content="https://ru.boostyouraccount.com/img/preview.jpg?v" />
-    <meta property="og:url" content="https://ru.boostyouraccount.com/privacy-policy.php" />
+    <meta property="og:url" content="https://ru.boostyouraccount.com/terms-conditions.php" />
     <meta property="og:site_name" content="Boost Your Account" />
-    <meta property="og:description" content="Пользуясь сервисом BoostYourAccount Вы автоматически соглашаетесь с политикой конфиденциальности!" />
-    <meta name="twitter:title" content="BoostYourAccount | Политика конфиденциальности" />
+    <meta property="og:description" content="Договор на предоставление услуг сервисом 'BoostYourAccount'. Используя сервис BoostYourAccount, Вы автоматически соглашаетесь с условиями договора оферты!" />
+    <meta name="twitter:title" content="BoostYourAccount | Договор публичной оферты" />
     <meta name="twitter:image" content="https://ru.boostyouraccount.com/img/preview.jpg?v" />
-    <meta name="twitter:url" content="https://ru.boostyouraccount.com/privacy-policy.php" />
+    <meta name="twitter:url" content="https://ru.boostyouraccount.com/terms-conditions.php" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="https://ru.boostyouraccount.com/icon.ico">
     <link rel="apple-touch-icon" href="https://ru.boostyouraccount.com/icon.ico">
-    <link rel="canonical" href="https://ru.boostyouraccount.com/privacy-policy.php">
+    <link rel="canonical" href="https://ru.boostyouraccount.com/terms-conditions.php">
+
 
     <link rel="stylesheet" href="css/style.css">
     <script defer src="js/utils.js"></script>
@@ -50,185 +39,217 @@ session_start();
 <body>
     <?php include "header.php"; ?>
     <section class="center-text-container">
-        <p>Политика конфиденциальности</p>
+        <p>Privacy Policy</p>
     </section>
     <div class="policy-page">
-        <p>Настоящий документ «Политика конфиденциальности» (далее по тексту – «Политика»)
-            представляет собой правила использования Веб-сайтом, расположенном в сети Интернет по
-            адресу https://ru.boostyouraccount.com/ (далее по тексту – «Оператор») персональной информации
-            Пользователя, которую Оператор, включая всех лиц, входящих в одну группу с Оператором, могут
-            получить о Пользователе во время использования им любого из Веб-сайтов, сервисов, служб,
-            продуктов или услуг Оператора (далее – Веб-сайт) и в ходе исполнения Оператором любых
-            соглашений и договоров с Пользователем.<br><br>
-            Согласие Пользователя с Политикой, выраженное им в рамках отношений с одним из
-            перечисленных лиц, распространяется на все остальные перечисленные лица. Использование
-            Веб-сайта означает безоговорочное согласие Пользователя с настоящей Политикой и указанными
-            в ней условиями обработки его персональной информации; в случае несогласия с этими
-            условиями Пользователь должен воздержаться от использования Веб-сайта.
+        <p>This is the Privacy Policy of BOOSTYOURACCOUNT (hereinafter referred to as “Administration”, “we,” “us” or “our”).
+            At <a style="color:white" href='https://boostyouraccount.com'>https://boostyouraccount.com</a>, we respect the privacy of our users and are committed to protecting
+            their personal information. Our Privacy Policy explains how we collect, use,
+            share and protect information in relation to our Website. We collect this information when you visit our website with your
+            computer, tablet or mobile phone, as well as during the use of any of the our Websites, services, products
+            or services and during the execution by BOOSTYOURACCOUNT of any agreements and agreements with the User.
         </p>
-        <h1>1. Определения терминов</h1>
-        <p>1.1. Оператор персональных данных (далее Оператор) — уполномоченные сотрудники,
-            которые организуют и (или) осуществляет обработку персональных данных, а также
-            определяют цели обработки персональных данных, состав персональных данных,
-            подлежащих обработке, действия (операции), совершаемые с персональнымиданными</p>
-        <p>1.2. Администрация — вся административная и техническая команда Сервиса «BOOSTYOURACCOUNT»,
-            ответственная за его разработку и обеспечение работоспособности, в одном лице.
-            Администрация находится в прямом контакте с Пользователем и обязуется предоставлять
-            информацию консультационного характера по вопросам, прямо связанным
-            с использованием Сервиса. Администрация является одной из сторон настоящего
-            Пользовательского соглашения.</p>
-        <p>1.3. Персональные данные — сведения, имеющие прямое или косвенное отношение к
-            определённому либо определяемому физическому лицу (также называемому субъектом
-            персональных данных).</p>
-        <p>1.4. Обработка персональных данных — любая операция (действие) либо совокупность
-            таковых, которые Оператор производит с персональными данными. Их могут собирать,
-            записывать, систематизировать, накапливать, хранить, уточнять (при необходимости
-            обновлять или изменять), извлекать, использовать, передавать (распространять,
-            предоставлять, открывать к ним доступ), обезличивать, блокировать, удалять и даже
-            уничтожать. Данные операции (действия) могут выполняться как автоматически, так и
-            вручную.</p>
-        <p>1.5. Конфиденциальность персональных данных — обязательное требование,предъявляемое
-            к Оператору или иному работающему с данными Пользователя должностному лицу,
-            хранить полученные сведения в тайне, не посвящая в них посторонних, если
-            предоставивший персональные данные Пользователь не изъявил своё согласие, а также
-            отсутствует законное основание для разглашения.</p>
-        <p>1.6. Веб-сайт — сервис «BOOSTYOURACCOUNT», предоставляющий услуги по онлайн продвижению в
-            социальных сетях, а также SMM, SEO и PR услуги в сети Интернет, расположенный в сети
-            Интернет по адресу https://ru.boostyouraccount.com/.</p>
-        <p>1.7. Пользователь Веб-сайта (далее — Пользователь) — человек, посетивший Веб-сайт, а
-            также пользующийся его услугами и продуктами.</p>
-        <p>1.8. Сервис — комплекс всех Услуг, предоставляемых Пользователю с использованием Вебсайта по адресу https://ru.boostyouraccount.com.</p>
-        <p>1.9. Услуги — комплекс функций технического характера, предоставляемый Пользователюв
-            рамках платного приобретения услуг по продвижению, накрутке и рекламе. В том числе,
-            услуги Сервиса решают задачу привлечения подписчиков, лайков, репостов,
-            комментариев, и т.д., в аккаунты Пользователя в социальных сетях.</p>
-        <p>1.10. Cookies — короткий фрагмент данных, пересылаемый веб-браузером или веб-клиентом
-            веб-серверу в HTTP-запросе, всякий раз, когда Пользователь пытается открыть страницу
-            сайта. Фрагмент хранится на компьютере Пользователя. "IP-адрес" — уникальный сетевой
-            адрес узла в компьютерной сети, построенной по протоколу TCP/IP.</p>
-        <h1>2. Общие положения</h1>
-        <p>2.1. Настоящая Политика является неотъемлемой частью Публичной оферты (далее –
-            «Оферта»), размещенной в сети Интернет по
-            адресу: https://ru.boostyouraccount.com/terms-conditions.php, а также иных заключаемых с
-            Пользователем договоров, когда это прямо предусмотрено их условиями.</p>
-        <p>2.2. Настоящая Политика составлена в соответствии с Федеральным законом «О
-            персональных данных» № 152-ФЗ от 27 июля 2006 г., а также иными нормативноправовыми актами Российской Федерации в области защиты и обработкиперсональных
-            данных и действует в отношении всех персональных данных, которые Оператор может
-            получить от Пользователя, являющегося стороной по гражданско-правовомудоговору.</p>
-        <p>2.3. Оператор имеет право вносить изменения в настоящую Политику. При внесении
-            изменений в заголовке Политики указывается дата последнего обновленияредакции.
-            Новая редакция Политики вступает в силу с момента ее размещения на Веб-сайте по
-            адресу: https://ru.boostyouraccount.com/privacy-policy.php, если иное не предусмотрено новой
-            редакцией Политики.</p>
-        <p>2.4. К настоящей Политике, включая толкование ее положений и порядок принятия,
-            исполнения, изменения и прекращения, подлежит применениюзаконодательство
-            Российской Федерации.</p>
-        <h1>3. Персональная информация Пользователей, которую обрабатывает Оператор Веб-сайта</h1>
-        <p>3.1. Веб-сайт не проверяет достоверность персональной информации, предоставляемой
-            Пользователем, и не имеет возможности оценивать его дееспособность.</p>
-        <p>3.2. Настоящая Политика применима только к информации, обрабатываемой в ходе
-            использования Веб-сайта. Оператор не контролирует и не несет ответственностьза
-            обработку информации Веб-сайтами третьих лиц, на которые Пользователь может перейти
-            по ссылкам, доступным на Веб-сайте.</p>
-        <p>3.3. Под персональной информацией в настоящей Политике понимается:</p>
+        <p>
+            By using the Service, you understand, agree and give your unconditional consent to the collection and
+            use of information in accordance with this Privacy Policy. Our Privacy Policy applies to all visitors, users,
+            and others who access the Service (“Users”). In case of disagreement with our Privacy Policy, the User
+            should refrain from using the Website.
+        </p>
+        <h1>Definitions</h1>
+        <p>
+            Data Controller — the natural or legal person who (either alone or jointly or in common with other
+            persons) determines the purposes for which and the manner in which any personal information
+            are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of
+            your Personal Data.
+        </p>
+        <p>
+            Administration — the entire administrative and technical team of the Service «BOOSTYOURACCOUNT»,
+            responsible for its development and maintenance of efficiency. The Administration is in direct
+            contact with the User and undertakes to provide consulting information on issues directly related
+            to the use of the Service.
+        </p>
+        <p>
+            Personal Data — Personal Data means data about a living individual who can be identified from
+            those data (or from those and other information either in our possession or likely to come into our
+            possession)
+        </p>
+        <p>
+            Usage Data — data collected automatically either generated by the use of the Service or from the
+            Service infrastructure itself (for example, the duration of a page visit).ƒ
+        </p>
+        <p>
+            Processing of Personal Data — any operation (action) or a set of those that the Operator
+            produces with personal data. They can collect, record, systematize, accumulate, store, clarify (if
+            necessary to update or change), extract, use, transfer (distribution, granting, access access),
+            depersonalize, block, remove, and even destroy. These operations (actions) can be performed
+            both automatically and/or manually.
+        </p>
+        <p>
+            Confidentiality of Personal Data — is a mandatory requirement for the Data Controller or any
+            other official working with the User's data to keep the information confidential, without disclosing it
+            to outsiders, if the user who provided the personal data has not expressed his consent, and there
+            is no legal basis for disclosure.
+        </p>
+        <p>
+            Website — service "BOOSTYOURACCOUNT" that provides services for online promotion in social networks,
+            as well as SMM, SEO and PR services on the Internet, located on the Internet at <a style="color:white" href='https://boostyouraccount.com'>https://boostyouraccount.com</a>.
+        </p>
+        <p>
+            User — is any living individual who is using our Website and/or its services and is the subject of
+            Personal Data. The User corresponds to the Data Subject, who is the subject of Personal Data.
+        </p>
+        <p>
+            Service — a set of all the Services provided by the Website at <a style="color:white" href='https://boostyouraccount.com'>https://boostyouraccount.com</a> to the User.
+        </p>
+        <p>
+            Services — a set of functions of a technical nature, provided to the User as part of the paid
+            purchase of promotion services and advertising. In particular, the Service solves the problem of
+            attracting subscribers, likes, reposts, comments, etc., to the User accounts in social networks.
+        </p>
+        <p>
+            Cookies — a short piece of data sent by a web browser or web client to a web server in an HTTP
+            request, whenever the User tries to open a page of the site. The fragment is stored on the User's
+            computer. "IP address" is a unique network address of a node in a computer network built on
+            TCP/IP Protocol.
+        </p>
+        <h1>General Provisions</h1>
+        <p>
+            Administration has the right to make changes to this Policy. When changes are made, the Policy
+            header indicates the date when the revision was last updated. The new version of the Policy shall
+            enter into force upon its posting on the Website at <a style="color:white" href='https://boostyouraccount.com/privacy-policy.php'>https://boostyouraccount.com/privacy-policy.php</a>,
+            unless otherwise provided by the new version of the Policy.
+        </p>
+        <h1>User’s Personal Information that is processed by Data Controller</h1>
+        <p>
+            The Website does not verify the accuracy of the personal information provided by the User and is
+            not able to assess their legal capacity.
+        </p>
+        <p>
+            This Policy applies only to information processed in the course of using the Website.
+            Administration does not control and is not responsible for the processing of information by thirdparty websites to which the User can click on the links available on the Website.
+        </p>
+        <p>
+            "Personal information" in this Policy refers to:
+        </p>
         <ul>
-            <li>информация, предоставляемая Пользователем самостоятельно при регистрации
-                (создании учётной записи) или в процессе использования Веб-сайта, включая
-                персональные данные Пользователя. Обязательная для предоставления Веб-
-                сайтом информация помечена специальным образом. Иная информация
-                предоставляется Пользователем на его усмотрение;</li>
-            <li>данные, которые передаются в автоматическом режиме на Веб-сайт в процессе
-                использования Пользователя Веб-сайта с помощью установленного на
-                устройстве Пользователя программного обеспечения, в том числе IP-адрес,
-                данные файлов Cookie, информация о браузере Пользователя (или иной
-                программе, с помощью которой осуществляется доступ к Веб-сайту), технические
-                характеристики
-                оборудования и программного обеспечения, используемых Пользователем, дата и
-                время доступа к Веб-сайту, адреса запрашиваемых страниц и иная подобная
-                информация;</li>
-            <li>иная информация о Пользователе, обработка которой предусмотрена условиями
-                использования Веб-сайта.</li>
+            <li>information provided by the User independently during checkout (order payment) or
+                during the use of the Website, including personal data of the User. The information
+                required for the Website is marked in a special way. Other information is provided by the
+                User at their discretion;
+            </li>
+            <li>
+                data that is automatically transmitted to the Website in the course of the User's use of the
+                Website using the software installed on the User's device, including IP address, Cookie
+                data, information about The user's browser (or other program by which the website is
+                accessed), technical specifications of the equipment and software used by the User, date
+                and time of access To the website, addresses of the requested pages and other similar
+                information;
+            </li>
+            <li>
+                other User information (including Usage Data), the processing of which is provided by the
+                terms of use of the Website.
+            </li>
         </ul>
-        <h1>4. Цели обработки персональной информации Пользователей</h1>
-        <p>4.1. Оператор собирает и хранит только ту персональную информацию, которая необходима
-            для предоставления сервисов или исполнения соглашений и договоров с Пользователем,
-            за исключением случаев, когда законодательством предусмотрено обязательноехранение
-            персональной информации в течение определенного законом срока.</p>
-        <p>4.2. Персональную информацию Пользователя Оператор обрабатывает в следующихцелях:</p>
+        <h1>Means and Purposes for Processing User’s Personal Data</h1>
+        <p>
+            Data Controller collects and stores only the personal information that is necessary for the
+            provision of services or the execution of agreements and contracts with the User, except in cases
+            where the legislation provides for the mandatory storage of personal information for a period
+            specified by law.
+        </p>
+        <p>
+            Data Controller processes the User's personal information for the following purposes:
+        </p>
         <ul>
-            <li>идентификация стороны в рамках сервисов, соглашений и договоров с Веб-сайтом;</li>
-            <li>предоставление Пользователю персонализированных сервисов и услуг, а также
-                исполнение соглашений и договоров;</li>
-            <li>направление уведомлений, запросов и информации, касающихсяиспользования
-                Веб-сайта, исполнения соглашений и договоров, а также обработка запросов и
-                заявок от Пользователя;</li>
-            <li>улучшение качества работы Веб-сайта, удобства его использованиядля
-                Пользователя, разработка новых услуг и сервисов;</li>
-            <li>таргетирование рекламных материалов;</li>
-            <li>проведение статистических и иных исследований на основе обезличенных данных.</li>
+            <li>
+                identification of the parties to the services agreements and contracts with the Website;
+            </li>
+            <li>
+                provision of personalized services to the User, as well as execution of agreements and
+                contracts;
+            </li>
+            <li>
+                sending notifications, requests and information regarding the use of the Website,
+                execution of agreements and contracts, as well as processing requests and applications
+                from the User;
+            </li>
+            <li>
+                improving the quality of Website usability for the User, development of new services;
+            </li>
+            <li>
+                targeting of advertising materials;
+            </li>
+            <li>
+                conducting statistical and other research based on depersonalized data.
+            </li>
         </ul>
-        <h1>5. Условия обработки персональной информации Пользователей и её передачи третьим лицам</h1>
-        <p>5.1. В отношении персональной информации Пользователя сохраняется ее
-            конфиденциальность, кроме случаев добровольного предоставленияПользователем
-            информации о себе для общего доступа неограниченному кругу лиц.</p>
-        <p>5.2. Оператор вправе передать персональную информацию Пользователя третьим лицам в
-            следующих случаях:</p>
+        <h1>Terms of processing User's Personal information and its transfer to third partiesƒ</h1>
+        <p>
+            With respect to the User's personal information, its confidentiality is maintained, except in cases
+            of voluntary provision by the User of information about himself for general access to an unlimited
+            number of persons.
+        </p>
+        <p>
+            Administration has the right to transfer the User's personal information to third parties in the
+            following cases:
+        </p>
         <ul>
-            <li>Пользователь выразил согласие на такие действия;</li>
-            <li>Передача необходима для использования Пользователем определенногосервиса
-                либо для исполнения определенного соглашения или договора сПользователем;</li>
-            <li>Передача необходима для функционирования и работоспособности самого Вебсайта;</li>
-            <li>Передача предусмотрена российским или иным применимым законодательствомв
-                рамках установленной законодательством процедуры;</li>
-            <li>Такая передача происходит в рамках продажи или иной передачи бизнеса
-                (полностью или в части), при этом к приобретателю переходят всеобязательства
-                по соблюдению условий настоящей Политики применительно к полученной им
-                персональной информации;</li>
-            <li>В целях обеспечения возможности защиты прав и законных интересов Веб-сайта
-                или третьих лиц в случаях, когда Пользователь нарушает Пользовательское
-                соглашение Веб-сайта, настоящую Политику, либо документы, содержащие
-                условия использования конкретных сервисов.</li>
-            <li>В результате обработки персональной информации Пользователя путемее
-                обезличивания получены обезличенные статистические данные, которые
-                передаются третьему лицу для проведения исследований, выполнения работ или
-                оказания услуг по поручению Веб-сайта.</li>
+            <li>
+                The User agreed to such actions;ƒ
+            </li>
+            <li>
+                The transfer is necessary for the User to use a certain service or for the execution of a
+                certain agreement or contract with the User;
+            </li>
+            <li>
+                The transfer is necessary for the functioning and efficiency of the Website;
+            </li>
+            <li>
+                The transfer is provided for by applicable law within the procedure
+                established by the legislation;
+            </li>
+            <li>
+                Such transfer takes place within the framework of sale or other transfer of business (in
+                whole or in part), while the purchaser assumes all obligations to comply with the terms of
+                this Policy in relation to the personal information received by them;
+            </li>
+            <li>
+                In order to protect the rights and legitimate interests of the Website or third parties in
+                cases where the User violates the Website’s User Agreement, this Privacy Policy, or
+                documents containing the terms of use of specific services.
+            </li>
+            <li>
+                As a result of the processing of the User's personal information by depersonalizing it,
+                depersonalized statistical data are obtained, which are transmitted to a third party for
+                research, work or services on behalf of the Website.
+            </li>
         </ul>
-        <h1>6. Изменение и удаление персональной информации. Обязательное хранение данных</h1>
-        <p>6.1. Пользователь может в любой момент изменить (обновить, дополнить) предоставленную им
-            персональную информацию или её часть, обратившись к Администрации по адресу
-            support@boostyouraccount.com.</p>
-        <p>6.2. Права, предусмотренные пункте 6.1. настоящей Политики могут быть ограничены в
-            соответствии с требованиями законодательства. Например, такие ограничения могут
-            предусматривать обязанность Администрации сохранить измененную или удаленную
-            Пользователем информацию на срок, установленный законодательством, и передать
-            такую информацию в соответствии с законодательно установленной процедурой
-            государственному органу</p>
-        <h1>7. Обработка персональной информации при помощи файлов Cookie и счетчиков</h1>
-        <p>7.1. Файлы Cookie, передаваемые Веб-сайтом оборудованию Пользователя иоборудованием
-            Пользователя Веб-сайту, могут использоваться Веб-сайтом для предоставления
-            Пользователю персонализированных сервисов, для таргетирования рекламы, которая
-            показывается Пользователю, в статистических и исследовательских целях, а также для
-            улучшения Веб-сайта.</p>
-        <p>7.2. Пользователь осознает, что оборудование и программное обеспечение, используемые им
-            для посещения Веб-сайтов в сети интернет могут обладать функцией запрещения
-            операций с файлами Cookie (для любых Веб-сайтов или для определенных Веб-сайтов), а
-            также удаления ранее полученных файлов Cookie.</p>
-        <p>7.3. Структура файла Cookie, его содержание и технические параметры определяются Вебсайтом и могут изменяться без предварительного уведомления Пользователя.</p>
+        <h1>Change and Deletion of Personal Information. Mandatory Data Storage</h1>
+        <p>
+            User may at any time change (update, supplement) the personal information provided by them by
+            contacting the Administration at the address support@boostyouraccount.com.
+        </p>
+        <p>
+            Rights under paragraph 6.1. of the Privacy Policy may be restricted as required by law. For
+            example, such restrictions may require the Administration to retain the information changed or
+            deleted by the User for a period established by law and to transmit such information in
+            accordance with the procedure established by law to the public authority.
+        </p>
+        <h1>Protection of User's Personal Information</h1>
+        <p>
+            Administration shall take the necessary and sufficient organizational and technical measures to
+            protect User's personal information from unauthorized or accidental access, destruction,
+            modification, blocking, copying, distribution, as well as other illegal actions with it by third parties.
+        </p>
+        <h1>Changes to the Privacy Policy</h1>
+        <p>
+            Administration has the right to make changes to this privacy Policy. When making changes in the
+            current version, the date of the last update is indicated. The new version of the Policy shall enter
+            into force upon its posting, unless otherwise provided by the new version of the Policy. The
+            current version is always available on the website under privacy policy.
+        </p>
 
-        <p>7.4. Счетчики, размещенные Веб-сайтом, могут использоваться для анализа файлов Cookie
-            Пользователя, для сбора и обработки статистической информации об использовании Вебсайта, а также для обеспечения работоспособности Веб-сайта в целом или их отдельных
-            функций в частности. Технические параметры работы счетчиков определяются Веб-сайтом и могут изменяться без предварительного уведомления Пользователя.</p>
-        <h1>8. Защита персонально информации Пользователя</h1>
-        <p>8.1. Оператор предпринимает необходимые и достаточные организационные итехнические
-            меры для защиты персональной информации Пользователя от неправомерного или
-            случайного доступа, уничтожения, изменения, блокирования, копирования,
-            распространения, а также от иных неправомерных действий с ней третьих лиц.</p>
-        <h1>9. Изменение Политики конфиденциальности</h1>
-        <p>9.1. Оператор имеет право вносить изменения в настоящую Политику конфиденциальности.
-            При внесении изменений в актуальной редакции указывается дата последнего обновления.
-            Новая редакция Политики вступает в силу с момента ее размещения, если иное не
-            предусмотрено новой редакцией Политики. Действующая редакция постоянно доступна на
-            странице по адресу политика конфиденциальности.</p>
+
     </div>
     <?php include "footer.html"; ?>
 </body>

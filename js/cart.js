@@ -1,5 +1,5 @@
 const stripe = Stripe(
-  ""
+  "pk_live_51N16A4FhqMu2BbaVIiDR34TAgJD8LuR2GAXYMYN90ZSXufAt061eMCmqnpAeC153GRLjmi1te5D5y3NQZBo8AI7c00VUGMpnE9"
 );
 checkStatus();
 let elements;
@@ -72,11 +72,26 @@ document
 
 // Fetches a payment intent and captures the client secret
 async function initialize() {
+  //saveOrder();
   var email = $("#email").val();
   let price = parseFloat($("#totalPriceText").text().slice(1));
+  let name = $("#name").val();
+  let code = document.getElementById("promocode").value;
+  let deviceType;
+  if (
+    /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      navigator.userAgent
+    )
+  )
+    deviceType = "Mobile";
+  else deviceType = "Desktop";
+
   const data = {
+    Name: name,
     Price: price,
     Email: email,
+    Discount: code,
+    Device: deviceType,
   };
   const response = await fetch("api/checkout.php?v=" + Date.now(), {
     method: "POST",
@@ -127,7 +142,6 @@ async function saveOrder() {
 async function handleSubmit(e) {
   e.preventDefault();
   setLoading(true);
-  saveOrder();
 
   const { error } = await stripe.confirmPayment({
     elements,
@@ -186,7 +200,7 @@ async function createConfirmationPanel(status) {
   let baseText =
     "Your order number: " +
     orderNumber +
-    "<br><br>Check your account, Boost Packages will be delivered soon!";
+    "<br><br>Check your account, Boost Packages will be delivered soon!<br>Email with order number and other information was sent to your email address.";
   if (status == "processing") {
     mainText = "Payment is processing!";
     baseText =

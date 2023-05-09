@@ -5,18 +5,15 @@ include "api/connect.php";
 <!doctype html>
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DZZG6870T"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-944123305"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-4DZZG6870T');
-    </script>
+  gtag('config', 'AW-944123305');
+</script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="author" content="Sahib Zulfigar" />

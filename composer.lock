@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99193329e93af24bff127145bfa450bd",
+    "content-hash": "c8b009f4378e102f3887cc114008d422",
     "packages": [
         {
             "name": "phpmailer/phpmailer",
@@ -88,16 +88,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v10.3.0",
+            "version": "v10.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "417d66a5b27a5ec53a706a346b05bfe170043d52"
+                "reference": "9e8055d55e8212ad844f48d7cf525b630689be35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/417d66a5b27a5ec53a706a346b05bfe170043d52",
-                "reference": "417d66a5b27a5ec53a706a346b05bfe170043d52",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/9e8055d55e8212ad844f48d7cf525b630689be35",
+                "reference": "9e8055d55e8212ad844f48d7cf525b630689be35",
                 "shasum": ""
             },
             "require": {
@@ -143,9 +143,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v10.3.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v10.12.1"
             },
-            "time": "2022-12-22T20:07:30+00:00"
+            "time": "2023-04-04T19:13:21+00:00"
         }
     ],
     "packages-dev": [],

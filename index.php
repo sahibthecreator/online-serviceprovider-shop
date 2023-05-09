@@ -6,17 +6,17 @@ include "api/connect.php";
 
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DZZG6870T"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-944123305"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-4DZZG6870T');
-    </script>
+  gtag('config', 'AW-944123305');
+</script>
+    <!-- TrustBox script -->
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+    <!-- End TrustBox script -->
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <meta name="author" content="Sahib Zulfigar" />
@@ -55,7 +55,7 @@ include "api/connect.php";
     <div class="main">
         <div class="col1 ">
             <div class="row1">
-                <h1 class="hidden delay-1"><span class="yellow-text">Grow</span> your social media presence
+                <h1 class="hidden delay-1"><span class="yellow-text">Grow</span> your social media
                     <span class="yellow-text">organically</span>
                 </h1>
             </div>
@@ -68,6 +68,13 @@ include "api/connect.php";
         <div class="col2 hidden delay-3">
             <img src="img/rocket.webp">
         </div>
+    </div>
+    <div style='margin-bottom:5%'>
+        <!-- TrustBox widget - Micro Review Count -->
+<div class="trustpilot-widget" data-locale="en-GB" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="6448f285345ebeb381a05b61" data-style-height="38px" data-style-width="100%" data-theme="dark" data-min-review-count="10" data-without-reviews-preferred-string-id="1" data-style-alignment="center">
+  <a href="https://uk.trustpilot.com/review/boostyouraccount.com" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
     </div>
     <div class="slider-container hidden">
         <p>Most favourite</p>
@@ -143,7 +150,7 @@ include "api/connect.php";
             </article>
             <article class="row2 hidden">
                 <p>Boost of account will be almost instantly!
-                    Just choose suitable service and place an order,
+                    Just choose suitable service and place an order, 
                     our team will start the process of Boost your account
                 </p>
             </article>
@@ -155,7 +162,7 @@ include "api/connect.php";
                 <p>Chat with us!</p>
             </article>
             <article class="row2 hidden">
-                <p>Our professional team are always happy to assist you.
+                <p>Our professional team are always happy to assist you. 
                     We will help you to choose best suitable service for successful growth of your account!</p>
             </article>
         </div>
